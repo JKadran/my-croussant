@@ -24,3 +24,6 @@ p{
     text-align: center;
     margin: 50px;
 }
+@media (max-width: 600px) {
+  text-align: center;
+}

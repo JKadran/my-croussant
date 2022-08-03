@@ -36,3 +36,6 @@ p{
     margin: 20px;
     text-align: justify;
 }
+@media (max-width: 600px) {
+  text-align: center;
+}
