@@ -1,0 +1,38 @@
+body{
+    background: white; 
+}
+.links{
+    text-align: center;
+    margin: 20px;
+}
+a{
+  margin: 30px;  
+  color: #f4991a;  
+}
+.headings{
+  font-family: 'Parisienne', cursive;
+  text-align: center;
+    
+}
+h1{
+ font-size: 50px;
+ color: #4d1212;
+ padding-right: 40px; 
+ margin: 10px;
+   
+}
+h2{
+   
+    color: #f4991a;  
+    padding-left: 40px; 
+    
+   
+}
+p{
+    color: #4d1212;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    margin: 20px;
+    text-align: justify;
+}
